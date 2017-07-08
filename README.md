@@ -5,6 +5,7 @@ Hola,
   Orden sugerido de lectura:
   
 1. libretas/
+
 	2. Instalando Python 3
 	2. Aprendiendo Jupyter
 	2. [Aprendiendo Python](https://github.com/fhca/cursodepython)
